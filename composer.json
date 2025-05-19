@@ -1,5 +1,5 @@
 {
-    "name": "xdavidwu/laravel-oidc-auth",
+    "name": "z-trippete/laravel-oidc-auth",
     "description": "OpenID Connect authentication for Laravel",
     "type": "library",
     "license": "MIT",
