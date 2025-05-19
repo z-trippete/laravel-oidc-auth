@@ -8,7 +8,7 @@ Based on steverhoades/oauth2-openid-connect-client.
 
 ## Usage
 
-Publish config with artisan command `vender:publish` for provider `LaravelOIDCAuth\OIDCAuthServiceProvider`, and fill it.
+Publish config with artisan command `vendor:publish` for provider `LaravelOIDCAuth\OIDCAuthServiceProvider`, and fill it.
 
 Use `LaravelOIDCAuth\Authenticate` as auth middleware to redirect directly to OIDC login automatically.
 
